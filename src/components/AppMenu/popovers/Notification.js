@@ -66,8 +66,7 @@ const useStyles = makeStyles((theme) => ({
     color: theme.palette.primary.main
   }
 }));
-
-function Notification(props) {
+export default function Notification(props) {
   const classes = useStyles();
 
   return (
@@ -121,5 +120,3 @@ function Notification(props) {
     </Popover>
   );
 }
-
-export default Notification;

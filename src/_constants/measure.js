@@ -1,0 +1,12 @@
+export const MEASURE = {
+  WIDTH_16: 16,
+  WIDTH_32: 32,
+  WIDTH_48: 48,
+  WIDTH_64: 64,
+  WIDTH_72: 72,
+  WIDTH_128: 128,
+  WIDTH_256: 256,
+  WIDTH_320: 320,
+  WIDTH_480: 480,
+  WIDTH_520: 520
+};

@@ -1,6 +1,6 @@
 # melo-app-menu
 
-The AppMenu component displays information and actions relating to the current screen, which is an important part of [MELO](https://melo-management.netlify.app).
+The AppMenu component of [MELO](https://melo-management.netlify.app) displays information and actions relating to the current screen.
 
 ## Demo
 
